@@ -1,5 +1,5 @@
 {
-  "name": "allensdk-celltypes-morphology",
+  "name": "allen-celltypes-morphology",
   "version": "0.0.0",
   "dependencies": {
     "lightning-client-utils": "^0.6.3",
@@ -19,6 +19,6 @@
     ]
   },
   "lightning": {
-    "name": "allensdk-celltypes-morphology"
+    "name": "allen-celltypes-morphology"
   }
 }
